@@ -3,7 +3,7 @@
 This course will cover how you can use NLP to do stuff.
 
 There are four videos
-1. Overview and Converting Text to Vectors 
+1. Overview and Converting Text to Vectors
   * For finding similar documents
   * "I have this document or text, what others talk about the same stuff?"
   * [Video](https://www.youtube.com/watch?v=aiHB7Ap9wF4)
@@ -56,6 +56,7 @@ All code will be available on GitHub here https://github.com/jmugan/modern_pract
 * There are also *symbolic methods* that are practically useful; we will cover those too.
 
 # Additional Information on NLP, AI, and Their Limits and Promise
+* [Microsoft Flight Simulator 2020 is an inflection point for virtual worlds and our own](https://deumbra.com/2020/09/microsoft-flight-simulator-2020-is-an-inflection-point-for-virtual-worlds-and-our-own/)
 * [Generating Natural-Language Text with Neural Networks](https://medium.com/@jmugan/generating-natural-language-text-with-neural-networks-e983bb48caad)
 * [Why Is There Life? and What Does It Have to Do with AI?](https://towardsdatascience.com/why-is-there-life-and-what-does-it-have-to-do-with-ai-2195ac91532f)
 * [Chatbots: Theory and Practice](https://medium.com/intuitionmachine/chatbots-theory-and-practice-3274f7e6d648)
